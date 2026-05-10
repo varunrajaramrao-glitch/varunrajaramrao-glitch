@@ -27,7 +27,7 @@ varun = {
     "target_role"    : "MLOps Engineer | AI Engineer",
     "learning"       : ["Python", "SageMaker", "MLflow", "Docker", "CI/CD"],
     "certs_earned"   : ["AWS AI Practitioner (AIF-C01)"],
-    "certs_next"     : ["AWS SAA-C03", "AWS ML Specialty"],
+    "certs_next"     : ["AWS SAA-C03", "AWS ML Engineer Associate"],
     "approach"       : "Learning in public. Building in public. Shipping real things.",
 }
 ```
@@ -76,7 +76,7 @@ varun = {
 |-------|--------------|--------|
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Certified AI Practitioner (AIF-C01) | ✅ Earned |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Certified Solutions Architect – Associate (SAA-C03) | 🎯 In Progress |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Certified Machine Learning – Specialty (MLS-C01) | 📅 Planned |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Machine Learning Engineer – Associate (MLA-C01) | 📅 Planned |
 
 ---
 
